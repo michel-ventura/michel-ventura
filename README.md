@@ -1,4 +1,4 @@
-### Ola sou Michel de Sousa Ventura
+### Michel de Sousa Ventura
 
 - 🔭 Hoje trabalho com front end
 - 🌱 Estudando Javascript
