@@ -1,7 +1,7 @@
 ### Olá, eu sou Michel de Sousa Ventura
 
 - 🔭 Hoje trabalho com front end
-- 🌱 Estudando Javascript
+- 🌱 Estudando Wordpress
 - 📫 Contrate-me no email: michel.frontenddeveloper@gmail.com
 
 <div align="center">
