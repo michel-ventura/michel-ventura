@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho com front end
 - 🌱 Estudando Wordpress
-- 📫 Contrate-me no email: michel.frontenddeveloper@gmail.com
+- 📫 Contrate-me no email: michelventura.dev@gmail.com
 
 <div align="center">
   <a href="https://michelventura.netlify.app">
