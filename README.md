@@ -1,6 +1,6 @@
 ### Olá, eu sou Michel de Sousa Ventura
 
-- 🔭 Hoje trabalho com front end
+- 🔭 Hoje trabalho com desenvolvimento de sites
 - 🌱 Estudando Wordpress
 - 📫 Contrate-me no email: michelventura.dev@gmail.com
 
@@ -13,7 +13,7 @@
   <img width="40" height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img width="40" height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img width="40" height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img width="40" height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
+  <img width="40" height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain-wordmark.svg" />
 </div>
     
   ##
